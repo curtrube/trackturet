@@ -4,11 +4,27 @@
     <projectFile>TrackTuretWeb/TrackTuretWeb.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0024a31-3754-4318-911f-9f29a575ffa5" name="Default Changelist" comment="" />
+    <list default="true" id="f0024a31-3754-4318-911f-9f29a575ffa5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackTuret/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackTuret/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackTuret/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackTuret/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/NavMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackTuretWeb/TrackTuretWeb.db" beforeDir="false" afterPath="$PROJECT_DIR$/TrackTuretWeb/TrackTuretWeb.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -17,12 +33,18 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/TrackTuretWeb/Models/Issue.cs" />
       <option value="$PROJECT_DIR$/TrackTuretWeb/Data/TrackTuretWebContext.cs" />
-      <option value="$PROJECT_DIR$/TrackTuretWeb/Startup.cs" />
       <option value="$PROJECT_DIR$/TrackTuretWeb/appsettings.json" />
+      <option value="$PROJECT_DIR$/TrackTuretWeb/Startup.cs" />
+      <option value="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/Issue.js" />
+      <option value="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/Create.js" />
+      <option value="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/App.js" />
+      <option value="$PROJECT_DIR$/TrackTuretWeb/ClientApp/src/components/NavMenu.js" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1kfcnDg1n8S7Zl5ztR5zXE6b4SV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +54,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.TrackTuretWeb">
@@ -74,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606095253453</updated>
-      <workItem from="1606095258907" duration="1469000" />
+      <workItem from="1606095258907" duration="3974000" />
     </task>
     <servers />
   </component>
@@ -83,6 +111,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

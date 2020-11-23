@@ -97,8 +97,11 @@
             <e p="App.test.js" t="Include" />
             <e p="components" t="Include">
               <e p="Counter.js" t="Include" />
+              <e p="Create.js" t="Include" />
+              <e p="Detail.js" t="Include" />
               <e p="FetchData.js" t="Include" />
               <e p="Home.js" t="Include" />
+              <e p="Issue.js" t="Include" />
               <e p="Layout.js" t="Include" />
               <e p="NavMenu.css" t="Include" />
               <e p="NavMenu.js" t="Include" />
